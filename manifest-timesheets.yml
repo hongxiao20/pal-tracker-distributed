@@ -9,3 +9,4 @@ applications:
   #  REGISTRATION_SERVER_ENDPOINT: http://registration-pal-fedor-jenny.apps.pikes.pal.pivotal.io
   services:
   - tracker-timesheets-database
+  - tracker-service-registry
