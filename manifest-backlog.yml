@@ -5,7 +5,7 @@ applications:
   - route: backlog-pal-fedor-jenny.apps.pikes.pal.pivotal.io
   memory: 1G
   instances: 1
-  env:
-    //REGISTRATION_SERVER_ENDPOINT: http://registration-pal-fedor-jenny.apps.pikes.pal.pivotal.io
+  #env:
+  #  REGISTRATION_SERVER_ENDPOINT: http://registration-pal-fedor-jenny.apps.pikes.pal.pivotal.io
   services:
   - tracker-backlog-database
